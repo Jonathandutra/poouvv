@@ -39,7 +39,11 @@ public class Aula001 {
     
     public static void dicas(int d)
     {
-        switch(d)
+        if(d == 0)
+        {
+       System.out.println("Tente um numero");
+        }else{
+         switch(d)
         {
             case 1:case 2:case 3:case 4:case 5:case 6:case 7:
                 System.out.println("Chute um valor menor de 1000");
@@ -49,7 +53,9 @@ public class Aula001 {
                 break;
              default:
                  System.out.println("tente um numero menor que 10");
+                break;
            
+        }
         }
     }
 }
