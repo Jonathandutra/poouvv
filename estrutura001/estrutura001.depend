@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519382830 source:c:\devc\estrutura001\circulo.c
+
+1446667744 source:c:\devc\estrutura001\main.c
+	<stdio.h>
+	<stdlib.h>
+
