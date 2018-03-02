@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446667744 source:c:\devc\estrutura002\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1519990769 source:c:\devc\estrutura002\lista.c
+	"lista.h"
+
+1519990443 c:\devc\estrutura002\lista.h
+
